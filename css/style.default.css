@@ -250,23 +250,23 @@ p.social a i {
 }
 
 p.social a.linkedin {
-  background-color: #666;
+  background-color: #D4D2A5;
 }
 
 p.social a.wordpress {
-  background-color: #aaa;
+  background-color: #5E5768;
 }
 
 p.social a.github {
-  background-color: #999;
+  background-color: #928779;
 }
 
 p.social a.file {
-  background-color: #ccc;
+  background-color: #3A445D;
 }
 
 p.social a.email {
-  background-color: #333;
+  background-color: #E6CAAD;
 }
 
 /*
